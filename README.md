@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Hi there! I'm Andrew 👋</h2>
 
-<!--
-**andrewwoood/andrewwoood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👨‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 💡 &nbsp; Exploring new technologies, producing software solutions, and developing growth hacks.
+- 🎓 &nbsp; Studying Computer Engineering at the University of Alberta.
+- 🤖 &nbsp; Working as a software engineer intern for ExactBuyer.
+- 🌱 &nbsp; Learning more about growth engineering, quantitative finance, and full-stack development.
+- 📈 &nbsp; President of the Alberta Quant Club and a rookie competitive programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.andrewwood.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andrewwood.ca-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/-andrewwood/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrew%20Wood-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:andrew.wood@ualberta.ca"><img alt="Email" src="https://img.shields.io/badge/Email-andrew.wood@ualberta.ca-blue?style=flat-square&logo=gmail"></a>
+</p>
