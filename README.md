@@ -4,8 +4,8 @@
 
 - 💡 &nbsp; Exploring new technologies, producing software solutions, and developing growth hacks.
 - 🎓 &nbsp; Studying Computer Engineering at the University of Alberta.
-- 🤖 &nbsp; Working as a software engineer intern for ExactBuyer.
-- 🌱 &nbsp; Learning more about growth engineering, quantitative finance, and full-stack development.
+- 🤖 &nbsp; Working as a software engineer intern for Alpaca.
+- 🌱 &nbsp; Learning more about full-stack development, mobile development, and data science.
 - 📈 &nbsp; President of the Alberta Quant Club and a rookie competitive programmer.
 
 <h3> 🛠 &nbsp;Technologies I like using</h3>
