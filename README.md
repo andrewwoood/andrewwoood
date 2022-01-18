@@ -2,7 +2,6 @@
 
 <h3>👨‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp; Exploring new technologies, producing software solutions, and developing growth hacks.
 - 🎓 &nbsp; Studying Computer Engineering at the University of Alberta.
 - 🤖 &nbsp; Working as a software engineer intern for Alpaca.
 - 🌱 &nbsp; Learning more about full-stack development, mobile development, and data science.
@@ -12,7 +11,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FF7396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=0077EE)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=FF74500)
   
 - 🌐 &nbsp;
@@ -27,7 +26,6 @@
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch&logoColor=FFFF00)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
