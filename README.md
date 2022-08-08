@@ -1,9 +1,7 @@
-<h2>Hi there! I'm Andrew 👋</h2>
+<h2>Hey, I'm Andrew 🪵</h2>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p>
+I'm a Software engineer living in Montreal, QC.
 
-<p align="center">
-<a href="https://www.andrewwood.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andrewwood.ca-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/-andrewwood/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrew%20Wood-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:andrew.wood@ualberta.ca"><img alt="Email" src="https://img.shields.io/badge/Email-andrew.wood@ualberta.ca-blue?style=flat-square&logo=gmail"></a>
+Get to know me by visiting <a href="https://www.andrewwood.ca">my website</a> or by browsing my repos.
 </p>
